@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    gap: 30px;
+    width: 1000px;
+    align-items: center;
+    margin: auto;
+    background-color: rgb(207, 206, 206);
+    padding: 2rem;
+}
+.judul a {
+    display: block;
+    text-align: right;
+    text-decoration: none;
+}
+.judul p {
+    text-align: justify;
+}
+.gambar img {
+    border-radius: 50%;
+}

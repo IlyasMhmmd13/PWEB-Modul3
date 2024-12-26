@@ -1,0 +1,3 @@
+function artikel() {
+    document.write("Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id ipsam est nesciunt illum a accusamus non officiis eum deleniti ex esse facilis beatae eius quibusdam maiores cumque vitae reiciendis placeat, et enim natus. Eligendi, odit. Eius nobis vitae accusamus est beatae itaque. Quasi, eos distinctio quidem similique optio officia iste necessitatibus voluptas sint qui error deleniti libero iure ea ipsam dolorem. Earum id cum repellat commodi atque tempore fuga fugit, porro eius perferendis, dignissimos ipsum. Atque, quibusdam! Iste ex maxime ducimus, quam ad suscipit! Nesciunt facere provident quaerat quisquam harum aut, suscipit, rem dolore maxime hic illum molestiae non quam.")
+}
